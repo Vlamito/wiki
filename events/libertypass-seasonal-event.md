@@ -22,14 +22,12 @@ Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzi
 <Image src="https://i.imgur.com/i6VSsOQ.png" alt="MeniuLP" />
 :::
 
-Față de sezonul 1, sezonul 2 aduce o serie de schimbări, printre care:
-- 50 de tiere în plus
-- posibilitatea de a obține Tier Experience (XP) din misiuni zilnice
+În acest moment, sistemul de Battlepass beneficiază de 100 de tiere normale și înca 2 tiere speciale, ce vor fi completate la un anumit număr de Tier XP, având ca premiu un pistol cu durabilitate aleatorie și un autovehicul special, de tip Hotring.
 
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
-Sezonul 2 a început pe data de 16 decembrie 2023 și se va termina pe data de 3 februarie 2024, având o durată de 7 săptămâni.
+Sezonul 3 a început pe data de 28 martie 2024 și se va termina pe data de 22 mai 2024, având o durată de 8 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -60,10 +58,6 @@ Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în 
 
 ::: details Schimbarea week-ului
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
-:::
-
-::: details Prezentare vehicul Grotti Cheetah
-<Image src="https://i.imgur.com/sysDjq9.png" alt="Grotti Cheetah" />  
 :::
 
 ::: details Badge
